@@ -1,5 +1,5 @@
 # babycrawl
-Automated web client interaction 
+simple web crawler
 
 BabyCrawl uses selenium web driver to load a url and interact with the elements on the page.
 
